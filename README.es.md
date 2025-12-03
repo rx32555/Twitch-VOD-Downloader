@@ -43,6 +43,7 @@ Al ejecutar el script por primera vez, te pedirá:
 2. **Descarga**: El script bajará el video y el chat.
 3. **Opcional**: Puedes elegir si deseas renderizar el chat o solo descargar el video.
 4. **Reproducción**: Al finalizar, se genera un archivo `.bat` en la carpeta `output` (ej: `Video_con_chat.bat`). Ejecútalo para ver el stream con el chat superpuesto como si fuera en vivo.
+(Nota: El reproductor generado es totalmente portátil. Puedes mover la carpeta output a otro PC, y el sistema intentará usar el .NET del sistema si no encuentra las herramientas locales).
 
 ## Estructura de Carpetas
 
