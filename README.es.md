@@ -26,7 +26,7 @@ Un script Batch automatizado y robusto para Windows que facilita la descarga, ar
 ##  Instalación
 
 1. Clona este repositorio o descarga el archivo en Releases.
-2. Ejecuta el archivo `Twitch-VOD-Downloader.bat`.
+2. Coloca el script en una carpeta vacía (muy recomendado) y ejecuta Twitch-VOD-Downloader.bat.
 3. El script creará automáticamente las carpetas necesarias (`ScriptFiles`, `output`, `userinfo`).
 
 ## Configuración Inicial
