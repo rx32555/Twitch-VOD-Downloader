@@ -26,7 +26,7 @@
 ## Installation
 
 1. Clone this repository or download the latest **Release**.
-2. Run the file `Twitch-VOD-Downloader.bat`.
+2. Run the file `Twitch-VOD-Downloader.bat`. It is highly recommended to run this script inside an empty folder to keep files organized.
 3. The script will automatically create the necessary directories (`ScriptFiles`, `output`, `userinfo`).
 
 ## Initial Configuration
