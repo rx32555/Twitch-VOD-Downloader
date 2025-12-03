@@ -1,0 +1,20 @@
+# Ignorar carpetas de salida y temporales del script
+output/
+temp/
+ScriptFiles/
+userinfo/
+
+# Ignorar archivos de logs
+*.log
+*_log.txt
+
+# Ignorar archivos temporales de sistema
+*.tmp
+*.bak
+desktop.ini
+Thumbs.db
+
+# Ignorar configuraciones locales y credenciales (MUY IMPORTANTE)
+*cookies.txt
+*OAUTH_TOKEN.txt
+*_cfg.txt
