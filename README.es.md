@@ -1,3 +1,15 @@
+<div align="center">
+
+# Twitch VOD Downloader & Chat Renderer
+
+[![English](https://img.shields.io/badge/Lang-English-blue.svg)](README.md)
+[![Español](https://img.shields.io/badge/Lang-Español-red.svg)](README.es.md)
+
+</div>
+
+---
+
+
 # Twitch VOD Downloader & Chat Renderer
 
 Un script Batch automatizado y robusto para Windows que facilita la descarga, archivado y reproducción de VODs de Twitch junto con su chat renderizado.
