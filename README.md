@@ -9,12 +9,10 @@ Un script Batch automatizado y robusto para Windows que facilita la descarga, ar
 - **Reproductor Portátil**: Genera un lanzador `.bat` automático que sincroniza video + chat usando `mpv` o `mpv.net`.
 - **Gestión de Dependencias**: Descarga y configura automáticamente todas las herramientas necesarias (`ffmpeg`, `yt-dlp`, `.NET 6`, etc.) en una carpeta local aislada.
 - **Persistencia de Sesión**: Guarda tus preferencias (token, canal) localmente.
-- **Modo Offline Completo**: Si mueves la carpeta de salida, el reproductor intenta usar una versión portable de .NET o hace fallback al sistema.
 
 ##  Requisitos Previos
 
 - Windows 10/11 (64-bits recomendado).
-- Conexión a Internet para la primera ejecución (descarga de herramientas).
 
 ##  Instalación
 
