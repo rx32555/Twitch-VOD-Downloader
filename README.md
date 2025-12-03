@@ -19,16 +19,13 @@
 - **Multi-Language Support**: Interface available in [translate:English] and [translate:Spanish] (v1.1+).
 - **Dependency Management**: Automatically downloads and configures all necessary tools (`ffmpeg`, `yt-dlp`, `.NET 6`, etc.) in an isolated local folder.
 - **Session Persistence**: Saves user preferences (OAuth token, channel, language) locally.
-- **Full Offline Mode**: If the output folder is moved, the player attempts to use a portable .NET runtime or falls back to the system runtime.
 
 ## Prerequisites
-
 - Windows 10/11 (64-bit recommended).
-- Internet connection for the initial run (to download tools).
 
 ## Installation
 
-1. Clone this repository or download the latest **Release** (ZIP).
+1. Clone this repository or download the latest **Release**.
 2. Run the file `Twitch-VOD-Downloader.bat`.
 3. The script will automatically create the necessary directories (`ScriptFiles`, `output`, `userinfo`).
 
