@@ -45,6 +45,7 @@ Upon the first run, the script will ask for:
 2.  **Download**: The script downloads both the video and the chat log.
 3.  **Optional**: You can choose whether to render the chat or just keep the video.
 4.  **Playback**: Upon completion, a launcher file is generated in the `output` folder (e.g., `Video_Name_VER_CON_CHAT.bat`). Run this file to watch the stream with the chat overlay as if it were live.
+(Note: The generated launcher is fully portable. You can move the output folder to another PC, and it will try to use the system's .NET if the local tools are missing.)
 
 ## Folder Structure
 
