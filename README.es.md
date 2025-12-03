@@ -9,9 +9,6 @@
 
 ---
 
-
-# Twitch VOD Downloader & Chat Renderer
-
 Un script Batch automatizado y robusto para Windows que facilita la descarga, archivado y reproducción de VODs de Twitch junto con su chat renderizado.
 
 ##  Características
