@@ -2,6 +2,9 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.0] - 2025-12-04
+- Added Multi-Language (EN-ES)
+
 ## [1.0.0] - 2025-12-03
 ### Public Release
 - Initial fully functional public release.
